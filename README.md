@@ -2,7 +2,7 @@
 
 I'm not a developer, a data scientist, programmer, engineer, or any other cool-sounding thing. Just here for fun because I like computers and hacky stuff.
 
-I love SQL, and will pronounce it 'sequel' or 'ess-queue-elle' with no consistency.  
+I love SQL, and will pronounce it 'sequel' or 'ess-queue-elle' with no consistency. I find set operations especially cool, and think it's funny to pronounce 'union' as 'onion'.
 
 python was my first love, but I'm peering into the R universe.  
 
